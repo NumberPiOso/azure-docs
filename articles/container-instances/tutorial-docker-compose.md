@@ -216,7 +216,7 @@ To see the running application in the cloud, enter the displayed IP address in a
 To see the logs of the front-end container, run the [docker logs](https://docs.docker.com/engine/reference/commandline/logs) command. For example:
 
 ```console
-docker logs azurevotingappredis_azure-vote-front
+docker logs azure-voting-app-redis_azure-vote-front
 ```
 
 You can also use the Azure portal or other Azure tools to see the properties and status of the container group you deployed.
